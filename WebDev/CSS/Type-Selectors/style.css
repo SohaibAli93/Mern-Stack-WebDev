@@ -1,0 +1,24 @@
+h1 {
+  color: #228b22;
+  text-align: center;
+  font-size: 60px;
+}
+p {
+  color: blueviolet;
+  font-size: 25px;
+  text-align: center;
+}
+h2 {
+  color: #2e612e;
+  text-align: center;
+  font-size: 40px;
+}
+ul {
+  list-style: square;
+  margin-left: 20;
+  text-align: center;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
